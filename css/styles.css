@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: black;
+}
+
+.city{
+  width: 300px;
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.roma{
+  background-image: url('../img/roma.jpeg');
+}
+
+.milano{
+  background-image: url('../img/milano.jpeg');
+}
+
+.napoli{
+  background-image: url('../img/napoli.jpeg');
+}
